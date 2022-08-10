@@ -1,2 +1,3 @@
 We are adidng this line from the CLI after our firts git push/pull
 We want to try pulling directly from remore repo
+Testing git fetch
