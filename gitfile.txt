@@ -1,0 +1,5 @@
+This is a test git file for cohort 8. The expectation is that at the end of this lecture, we would have:
+1. Refreshed our memory of the last class
+2. Learnt about gi branches
+3. Opened up a git repository
+4. Pushed our code from the local to the remote repository
