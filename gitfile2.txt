@@ -1,0 +1,1 @@
+We are adidng this line from the CLI after our firts git push/pull
